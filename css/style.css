@@ -1,0 +1,98 @@
+body{
+    background-color: #1C6BFD;
+}
+
+.jumbotron {
+    background-image: url();
+}
+
+.jumbotron h1 {
+    padding-left: 2%;
+}
+
+.jumbotron p {
+    padding-left: 1%;
+}
+
+.posts {
+    background-color: #ffffff;
+}
+
+div.post-bar{
+    margin-top: 0px;
+}
+
+.post-title {
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.post-author {
+    padding-left: 15px;
+}
+
+.post-categories{
+    color: #343434;
+    padding-left: 15px;
+}
+
+.posts p{
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+ul.social-media {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.post-footer{
+    padding-left: 30px;
+    padding-bottom: 5px;
+}
+.posts a{
+    color: #FF8F2E;
+}
+.post-title a {
+    color: #4889FF;
+}
+.post-title a:hover {
+    text-decoration: none;
+}
+
+.sidebar {
+    background-color: #ffffff;
+    margin-top: 20px;
+}
+.poll-header h1{
+    text-align: center;
+}
+
+.poll-title {
+    text-align: center;
+}
+.poll-items{
+    padding-left: 10px;
+/*    text-align: center;*/
+}
+
+.poll-details{
+    text-align: center;
+}
+
+.poll-details a{
+    color: #FF8F2E;
+}
+
+.archive h1{
+    text-align: center;
+}
+.archive-list{
+    list-style: none;
+}
+.archive-list li{
+    padding-left: 15px;
+}
+.archive a{
+    color: #FF8F2E;
+}
