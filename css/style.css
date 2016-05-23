@@ -1,7 +1,9 @@
 body{
     background-color: #1C6BFD;
 }
-
+.more-divider{
+    text-align: center;
+}
 .jumbotron {
     background-image: url();
 }
@@ -94,5 +96,18 @@ ul.social-media {
     padding-left: 15px;
 }
 .archive a{
+    color: #FF8F2E;
+}
+
+.footer {
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+
+.footer-info {
+    text-align: center;
+}
+
+.footer-info a{
     color: #FF8F2E;
 }
